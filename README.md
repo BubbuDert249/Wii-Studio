@@ -1,2 +1,2 @@
-# WiiA-Studio
-For Wii A
+# Wii-Studio
+For Wii
