@@ -1,4 +1,19 @@
 # Xsale Code
 *.xsale
 *.xaskl
-# Wii A
+
+# Wii Configurations
+*.wiiconf
+
+# Arsale Code
+*._ars
+
+# Wii Mote/Controller Settings
+*.wms
+*.wcs
+
+# 3D Settings
+*._3d
+
+# Manual Notes
+*.mnul
